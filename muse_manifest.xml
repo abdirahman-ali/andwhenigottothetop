@@ -1,24 +1,54 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://abdirahman-ali.github.io/andwhenigottothetop" resolutions="1x" timestamp="1555485748537">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://abdirahman-ali.github.io/andwhenigottothetop" resolutions="1x" timestamp="1556559981425">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3979411264" ref="index"/>
+    <file name="index.css" crc="4267540640" ref="index"/>
+    <file name="ir2.css" crc="208343123" ref="ir2"/>
+    <file name="brrender.css" crc="119379683" ref="brrender"/>
+    <file name="zrender.css" crc="221972321" ref="zrender"/>
+    <file name="and-that-s-it.css" crc="220581545" ref="and-that-s-it"/>
+    <file name="hcrender.css" crc="349210808" ref="hcrender"/>
+    <file name="aaborendr.css" crc="456366116" ref="aaborendr"/>
+    <file name="valleyrender.css" crc="279637156" ref="valleyrender"/>
   </folder>
   <folder name="assets">
     <file name="whenigottothetop.mp4" crc="3976535710" seo="true" mt="1555482967000"/>
     <file name="whenigottothetop.gif" crc="3767300265" seo="true" mt="1555483511000"/>
+    <file name="brrender.mp4" crc="206480111" seo="true" mt="1556554375000"/>
+    <file name="aaborendr.mp4" crc="146881338" seo="true" mt="1556555952000"/>
+    <file name="interiorrender.mp4" crc="185775351" seo="true" mt="1556557423000"/>
+    <file name="zrender.mp4" crc="216133052" seo="true" mt="1556554215000"/>
+    <file name="hcrender.mp4" crc="12440359" seo="true" mt="1556557827000"/>
+    <file name="valleyrender.mp4" crc="108358286" seo="true" mt="1556557889000"/>
+    <file name="ir2.mp4" crc="448526882" seo="true" mt="1556557861000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="340535759" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4286661555" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:brrender:aaborendr:and-that-s-it:zrender:hcrender:valleyrender:ir2"/>
+    <file name="museutils.js" crc="340535759" ref="index:brrender:aaborendr:and-that-s-it:zrender:hcrender:valleyrender:ir2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:brrender:aaborendr:and-that-s-it:zrender:hcrender:valleyrender:ir2"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:brrender:aaborendr:and-that-s-it:zrender:hcrender:valleyrender:ir2"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:brrender:aaborendr:and-that-s-it:zrender:hcrender:valleyrender:ir2"/>
+    <file name="require.js" crc="7928878" ref="index:brrender:aaborendr:and-that-s-it:zrender:hcrender:valleyrender:ir2"/>
   </folder>
   <folder name="images">
     <file name="u94-4.png" crc="122961087" ref="index"/>
     <file name="u101-4.png" crc="3932163442" ref="index"/>
     <file name="u104-4.png" crc="479514448" ref="index"/>
+    <file name="a-master-favicon.ico" crc="466338005" ref="index:brrender"/>
+    <file name="u167-4.png" crc="3774951709" ref="brrender"/>
+    <file name="u204-4.png" crc="4125481495" ref="aaborendr"/>
+    <file name="u201-4.png" crc="4125481495" ref="aaborendr"/>
+    <file name="u219-5.png" crc="340394413" ref="and-that-s-it"/>
+    <file name="u261-4.png" crc="419363498" ref="zrender"/>
+    <file name="u282-4.png" crc="250257285" ref="hcrender"/>
+    <file name="u299-4.png" crc="337076390" ref="valleyrender"/>
+    <file name="u314-4.png" crc="323387298" ref="ir2"/>
   </folder>
-  <file name="index.html" crc="3803036849" seo="true" mt="1555484466987" redirect="true"/>
+  <file name="index.html" crc="208240702" seo="true" mt="1556559322716" redirect="true"/>
+  <file name="brrender.html" crc="276340494" seo="true" mt="1556559974434" redirect="true"/>
+  <file name="aaborendr.html" crc="3844259676" seo="true" mt="1556559322716" redirect="true"/>
+  <file name="and-that-s-it.html" crc="3840873042" seo="true" mt="1556559322716" redirect="true"/>
+  <file name="zrender.html" crc="4173388279" seo="true" mt="1556559322716" redirect="true"/>
+  <file name="hcrender.html" crc="511340337" seo="true" mt="1556559322716" redirect="true"/>
+  <file name="valleyrender.html" crc="270339453" seo="true" mt="1556559322716" redirect="true"/>
+  <file name="ir2.html" crc="312158928" seo="true" mt="1556559322716" redirect="true"/>
 </manifest>

@@ -2,7 +2,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://abdirahman-ali.github.io/andwhenigottothetop/index.html</loc>
+    <lastmod>2019-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://abdirahman-ali.github.io/andwhenigottothetop/valleyrender.html</loc>
+    <lastmod>2019-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://abdirahman-ali.github.io/andwhenigottothetop/ir2.html</loc>
+    <lastmod>2019-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://abdirahman-ali.github.io/andwhenigottothetop/hcrender.html</loc>
+    <lastmod>2019-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://abdirahman-ali.github.io/andwhenigottothetop/zrender.html</loc>
+    <lastmod>2019-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://abdirahman-ali.github.io/andwhenigottothetop/and-that-s-it.html</loc>
+    <lastmod>2019-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://abdirahman-ali.github.io/andwhenigottothetop/aaborendr.html</loc>
+    <lastmod>2019-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://abdirahman-ali.github.io/andwhenigottothetop/brrender.html</loc>
+    <lastmod>2019-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://abdirahman-ali.github.io/andwhenigottothetop/assets/hcrender.mp4</loc>
+    <lastmod>2019-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://abdirahman-ali.github.io/andwhenigottothetop/assets/whenigottothetop.gif</loc>
     <lastmod>2019-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://abdirahman-ali.github.io/andwhenigottothetop/assets/zrender.mp4</loc>
+    <lastmod>2019-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://abdirahman-ali.github.io/andwhenigottothetop/assets/interiorrender.mp4</loc>
+    <lastmod>2019-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://abdirahman-ali.github.io/andwhenigottothetop/assets/aaborendr.mp4</loc>
+    <lastmod>2019-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://abdirahman-ali.github.io/andwhenigottothetop/assets/brrender.mp4</loc>
+    <lastmod>2019-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://abdirahman-ali.github.io/andwhenigottothetop/assets/valleyrender.mp4</loc>
+    <lastmod>2019-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -13,8 +97,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://abdirahman-ali.github.io/andwhenigottothetop/assets/whenigottothetop.gif</loc>
-    <lastmod>2019-04-17</lastmod>
+    <loc>https://abdirahman-ali.github.io/andwhenigottothetop/assets/ir2.mp4</loc>
+    <lastmod>2019-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
